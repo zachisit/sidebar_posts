@@ -1,0 +1,33 @@
+#sidebar_posts_main {
+    float:left;
+    width:100%;
+}
+#sidebar_posts_main .row {
+    float:left;
+    width:100%;
+    margin:0 0 2em 0;
+}
+#sidebar_posts_main .row label {
+    text-align:center;
+    font-size:1em;
+    font-weight:900;
+    display:block;
+    margin:0 0 0.4em 0;
+}
+#sidebar_posts_main .row select {
+    width:100%;
+}
+#sidebar_posts_main .row .left {
+    width:40%;
+    float:left;
+    background:#dee8eb;
+    border:1px solid white;
+    padding:2em;
+}
+#sidebar_posts_main .row .right {
+    width:40%;
+    float:right;
+    background:#dee8eb;
+    border:1px solid white;
+    padding:2em;
+}
